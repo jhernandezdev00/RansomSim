@@ -1,0 +1,3 @@
+Tus archivos han sido cifrados. Para recuperarlos, sigue las instrucciones a continuación:
+1. Contacta al atacante a través del correo: atacante@example.com
+2. Dar 1000000 dólares en criptomonedas para obtener la clave de descifrado.
