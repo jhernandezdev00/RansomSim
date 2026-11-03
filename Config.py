@@ -1,4 +1,6 @@
 CARPETA_OBJETIVO = "./Carpeta_objetivo"
 EXTENSION_BLOQUEO = ".bloqueado"
 ARCHIVO_PUB_LLAVE = "./Llaves_Criptograficas/llave_publica.pem"
+ARCHIVO_PRIV_LLAVE = "./Llaves_Criptograficas/llave_privada.pem"
 ARCHIVO_SALIDA_KEY = f"{CARPETA_OBJETIVO}/clave_cifrada.bin"
+ARCHIVO_KEY_RESCATE = f"{CARPETA_OBJETIVO}/ARCHIVO_KEY_RESCATE.txt"
